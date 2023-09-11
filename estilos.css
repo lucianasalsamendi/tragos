@@ -1,0 +1,59 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@500&family=Roboto+Slab&family=Roboto:ital,wght@1,300;1,400&family=Ubuntu:ital,wght@0,700;1,300;1,400&display=swap');
+
+
+    
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-family: 'Lobster', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-family: 'Lobster', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+#resultado {
+    margin-top: 30px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-family: 'Lobster', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+img {
+    max-width: 300px;
+    height: auto;
+}
+
